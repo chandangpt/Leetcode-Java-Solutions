@@ -1,14 +1,17 @@
 package com.chandan.designproblems.SerializeandDeserializeBinaryTree297;
 
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
- * }
- */
+
+import java.util.Arrays;
+import java.util.Deque;
+import java.util.LinkedList;
+
+//Definition for a binary tree node.
+class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+    TreeNode(int x) { val = x; }
+}
 public class Codec {
 
     private static final String SPLITER = ",";
