@@ -1,4 +1,4 @@
-package com.chandan.neetcode150.ValidSudoku36;
+package com.chandan.neetcode150.arraysandhashing.ValidSudoku36;
 
 import java.util.HashSet;
 import java.util.Set;

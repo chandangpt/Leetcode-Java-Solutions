@@ -1,4 +1,4 @@
-package com.chandan.neetcode150.TwoSum1;
+package com.chandan.neetcode150.arraysandhashing.TwoSum1;
 
 import java.util.HashMap;
 
