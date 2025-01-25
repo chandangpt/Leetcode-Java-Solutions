@@ -1,4 +1,4 @@
-package com.chandan.neetcode150.binarysearch.Searcha2DMatrix;
+package com.chandan.neetcode150.binarysearch.Searcha2DMatrix74;
 
 public class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
